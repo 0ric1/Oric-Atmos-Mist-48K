@@ -27,6 +27,7 @@ Files for the MIST FPGA Computer with Oric Atmos 48k core.
 8. At the  prompt enter `LOAD"MIC"` and press the `ENTER` key to load the `MIC.COM` file.
 
 9. You should see a photography ![MIC @ Lothirngair](assets/aSc_MICatLothringair.PNG)
+
    that I shot at Lothringair street festival in Aachen, Germany.
 
 10. Press `F11` to reboot into the `SEDORIC` screen and load another file.
